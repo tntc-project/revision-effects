@@ -12,6 +12,8 @@ Translation metalanguage of effects has been developed in the TNTC project suppo
 
 TML-Effect-v1-EN was developed by Rei Miyata and Takuya Miyauchi. The details of its development are described in Miyata and Miyauchi (2022).
 
+The Excel file for download was created by Rei Miyata.
+
 ## License
 
 The metalanguage(s) and related materials are distributed under the conditions of [Creative Commons Attribution-NonCommercial-ShareAlike License 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
